@@ -1,0 +1,44 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+# Données non compressées
+data/
+# Jupyter
+.ipynb_checkpoints/
+
+# Variables d'environnement / secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Mac / Linux
+.DS_Store
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Fichiers générés
+dist/
+build/
+*.egg-info/
+
+# Secrets / clés
+*.pem
+*.key
+
+
+
+
+
+
+
